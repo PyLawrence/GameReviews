@@ -7,13 +7,14 @@ User stories were created to determine what functionality should be added, and h
 
 This part was built in an environment with multiple other developers working on other sections of the project.
 
-
-## User Stories
 ### Links
 * [Add/View/Edit/Delete](https://github.com/PyLawrence/GameReviews#addvieweditdelete)
 * [WebScraping](https://github.com/PyLawrence/GameReviews#webscraping)
 * [Favorites](https://github.com/PyLawrence/GameReviews#favorites)
 * [API](https://github.com/PyLawrence/GameReviews#api-queries)
+* [Final Thoughts](https://github.com/PyLawrence/GameReviews#final-thoughtsabout)
+
+## User Stories
 
 ### Add/View/Edit/Delete
 The user should be able to create, view, edit, and delete reviews as mentioned.

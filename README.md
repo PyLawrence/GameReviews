@@ -269,6 +269,6 @@ This allowed me to properly utilize git to merge, branch, fetch, and create pull
 
 Finally, this project was worked on in two one-week sprints.  We utilized scrum throughout the entire process.
 
-#####Build details:
+##### Build details:
 Python 3.5
 </br>Django 3

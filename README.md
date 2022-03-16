@@ -9,6 +9,11 @@ This part was built in an environment with multiple other developers working on 
 
 
 ## User Stories
+### Links
+* [Add/View/Edit/Delete](https://github.com/PyLawrence/GameReviews#addvieweditdelete)
+* [WebScraping](https://github.com/PyLawrence/GameReviews#webscraping)
+* [Favorites](https://github.com/PyLawrence/GameReviews#favorites)
+* [API](https://github.com/PyLawrence/GameReviews#api-queries)
 
 ### Add/View/Edit/Delete
 The user should be able to create, view, edit, and delete reviews as mentioned.

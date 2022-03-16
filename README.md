@@ -277,3 +277,5 @@ Finally, this project was worked on in two one-week sprints.  We utilized scrum 
 ##### Build details:
 Python 3.5
 </br>Django 3
+
+[top](https://github.com/PyLawrence/GameReviews#game-reviews)
